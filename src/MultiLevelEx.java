@@ -1,4 +1,4 @@
-class Student
+private class Student
 {
 int rno;
 String name;
