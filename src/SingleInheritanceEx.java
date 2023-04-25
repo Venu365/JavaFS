@@ -5,7 +5,7 @@ int a=10,b=20;
 class B extends A
 {
 	int a=100,b=200;
-	void sum(int a,int b)
+	void sum(int a,int b)//tyutu
 	{
 System.out.println(a+b);//3000
 System.out.println(this.a+this.b);//300
