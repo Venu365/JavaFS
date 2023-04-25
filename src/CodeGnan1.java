@@ -9,6 +9,7 @@ class CodeGnan1
 	static String b="java";
 public static void main(String[] args) 
 {
+//creation of object 
 	CodeGnan1 c = new CodeGnan1();
 	double d=12.67;
     System.out.println(c.a);
