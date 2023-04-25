@@ -16,7 +16,7 @@ System.out.println(super.a+super.b);//30
 public class SingleInheritanceEx {
 
 	public static void main(String[] args) {
-		B ob=new B();
+		B ob=new B();// Hello
        ob.sum(1000,2000);
 
 	}
